@@ -2,7 +2,7 @@
 ##
 <div align="left">
   <a href="https://github.com/n4njan">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=n4njan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="350" width="300" src="https://github-readme-stats.vercel.app/api?username=n4njan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="120em" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4njan&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
