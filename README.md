@@ -1,6 +1,6 @@
 ### Oi, eu sou Matheus N4njan 👋
 ##
-<div align="left">
+<div align="center">
   <a href="https://github.com/n4njan">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=n4njan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="500" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4njan&layout=compact&langs_count=7&theme=midnight-purple"/>
