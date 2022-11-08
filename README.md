@@ -1,7 +1,7 @@
 ### Oi, eu sou Matheus N4njan 👋
 
 - 🌱 Futuro Biólogo, aspirante a futuro Programador.
-- 👨‍💻 Atualmente aprendendo python e Django. 
+- 👨‍💻 Atualmente aprendendo python. 
 - 🤖 Pretendendo trabalhar com inteligência artificial, especificamente Deep Learning.
  <div align="left">
   <a href="https://github.com/n4njan">
