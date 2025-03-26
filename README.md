@@ -10,7 +10,7 @@
  
   ##
  - 🌱 Biólogo.
-- 👨‍💻 Atualmente aprendendo python, Git, Docker e comunicação entre microsserviços.
+- 👨‍💻 Atualmente aprendendo python, Git, Docker, power BI, comunicação entre microsserviços e inteligência artificial.
 - 🤖 Pretendendo trabalhar com inteligência artificial, especificamente Deep Learning.
 <div> 
  <a href="https://instagram.com/teteubomfim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
