@@ -9,9 +9,8 @@
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
   ##
- - 🌱 Biólogo.
-- 👨‍💻 Atualmente aprendendo python, Git, Docker, power BI, comunicação entre microsserviços e inteligência artificial.
-- 🤖 Pretendendo trabalhar com inteligência artificial, especificamente Deep Learning.
+- 🌱 Biologist.
+- 🤖 Data Science | Power BI | SQL | Python | ETL | Data Visualization | Data Analysis | Biology + Data.
 <div> 
  <a href="https://instagram.com/teteubomfim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:N4njan.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
